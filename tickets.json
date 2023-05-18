@@ -26,5 +26,12 @@
     "especial": "Angus",
     "bebida": "Coca Cola",
     "tamano": 3
+},
+{
+    "panes": "Multicereal\/Rustico",
+    "carnitas": "QuesoAzul",
+    "especial": "Pollo",
+    "bebida": "Sprite",
+    "tamano": 2
 }
 ]
