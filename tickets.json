@@ -33,5 +33,12 @@
     "especial": "Pollo",
     "bebida": "Sprite",
     "tamano": 2
+},
+{
+    "panes": "Mollete",
+    "carnitas": "Guacamole",
+    "especial": "Wagyu",
+    "bebida": "Coca Cola",
+    "tamano": 3
 }
 ]
